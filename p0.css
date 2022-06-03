@@ -1,0 +1,276 @@
+@media screen(max-width:319){
+	nav,a{
+		font-size:50px;
+	}
+
+}
+nav a{
+	text-decoration:none;
+	margin:0px;
+}
+nav a{
+	padding:20px;
+	color:black;
+font-size:20px;
+text-transform:capitalize;
+}
+.lo{
+	float:right;
+	padding:3px;
+	color:red;
+	font-size:15px;
+	}
+	.up{
+		font-size:15px;
+	}
+.li{
+	float:right;
+	font-size:5px;
+}
+
+header{
+	/*we must make position absolute to do change position of text/things*/
+	position:absolute;
+	left:10%;
+	font-size:70px;
+	color:white;
+	top:10%;
+}
+.h{
+	/*we must make position absolute to do change position of text/things*/
+	font-size:25px;
+color:black;
+position:absolute;
+top:78%;
+}
+
+@media screen(min-width:584px){
+
+}
+/*we must make position absolute to do change position of text/things*/
+.par{
+	position:absolute;
+	top:100%;
+	left:70%;
+	font-size:30px;
+	color:black;
+}
+.jo{
+	background-color:white;
+	position:absolute;
+	top:90%;
+left:10%;
+}/*we must make position absolute to do change position of text/things*/
+.fa-solid fa-play{ 
+padding:0px;
+	color:red;
+ font-size:50px;
+ }
+ i{
+ 	padding:0px;
+ 	margin:0px;
+ 	font-size:20px;
+ }
+ .io{
+ 	font-size:20px;
+ }
+ .header{
+ 	min-height:150vh;
+ 	background-image:url(colin-meg-mpHXQODmW9c-unsplash.jpg);
+ width:100%;
+ height:100%;
+ background-size:cover;
+ }
+ .red-hawk{
+background-size:cover;
+padding:10px;
+margin:10px;
+ }
+ .not{
+ 	/*make display:flex; to make it column rows:u*/
+ 	
+ justify-content:space-between;
+ margin-top:5%;
+ display:flex;
+ }
+ .rap{
+ 	font-size:17px;
+ 
+ }
+ .e{
+ 	font-size:17px;
+ 
+ }
+ .f{
+ 	font-size:17px;
+  }
+
+ .row:hover{
+ 	background-color:green;
+ 	color:white;
+ 	border-radius:10px;
+ 	transition:2s;
+
+ }
+ .row{
+ 	text-align:justify;
+background-color:#8D5D52;
+ border-radius:10px;
+ }
+ h2,h3{
+ 	text-transform:capitalize;
+ 	font-size:30px;
+ 	text-align:center;
+ }
+
+ .gomu{
+ 	min-height:150vh;
+ 	background-image:url(2.jpg);
+ 	background-size:cover;
+ }
+ .helo{
+ 	background-color:#98D7AE;
+ 	border-radius:10px;
+ }
+ .helo:hover{
+ 	background-color:#2D563B;
+ transition:2s;
+ border-radius:10px;
+ }
+ .pool:hover{
+ 	background-color:#82B6BD;
+ 	transition:2s;
+ border-radius:10px;
+ }
+ .pool{
+ 	border-radius:10px;
+ 	background-color:#B69B95;
+ }
+
+ p{
+ 	padding:10px;
+ 	
+/* give padding in paragraph otherwise it will stick with each other*/
+ }
+.pose{
+	position:absolute;
+	left:80%;
+
+}
+/*we must make position absolute to do change position of text/things*/
+.mail{
+	position:absolute;
+
+}
+h3{
+	text-align:left;
+text-transform:capitalize;
+}
+p{
+	text-transform:capitalize;
+	margin:0px;
+}
+h4{
+	text-transform:capitalize;
+}
+.wife{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+}
+.sou{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+}
+.dis{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.sec{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.web{
+background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+}
+.gen{
+background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+}
+.soft{
+background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+}
+.sett{
+	background-color:black ;
+}
+.advan{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+}
+.h3{
+	color:white;
+}
+.hee{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.or{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.hop{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.hope{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.yu{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.you, .youro,.ai,.opo,.loh, .{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.fafa,.youro{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+.ai,.popo,.opo,.loh,.cool,.ck{
+	background-color:white;
+	border:1px solid #E7E7BC;
+	border-radius:10px;
+
+}
+@media(max-width:310px){
+	.red-hawk{
+		display:inline-table;
+	}
+}
